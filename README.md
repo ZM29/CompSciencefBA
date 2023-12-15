@@ -19,7 +19,7 @@ The code implements a method to identify potential duplicate products within a d
 The codebase is structured as follows:
 
 - `CSfBA_TF_IDF.py`: The main logic for data loading, preprocessing, MinHash computation, LSH application, and evaluation.
-- `data/`: Directory containing the dataset (`data.json`) used for duplicate detection.
+- `data/`: Folder containing the dataset (`data.json`) used for duplicate detection.
 - `README.md`: This file, providing an overview of the project, its structure, and usage instructions.
 
 ## How to Use
@@ -35,7 +35,7 @@ To run the code:
 
 3. Run the main script:
     ```bash
-    python script.py
+    python CSfBA_TF_IDF.py
     ```
 
 ## Dataset
