@@ -35,7 +35,7 @@ To run the code:
 
 3. Run the main script:
     ```bash
-    python script.py
+    python CSfBA_TF_IDF.py
     ```
 
 ## Dataset
